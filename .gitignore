@@ -10,3 +10,7 @@
 /Debug
 /Release
 /x64
+/BigInteger/Debug
+/BigInteger/Release
+/BigInteger/x64
+/BigInteger/BigInteger.vcxproj.user
