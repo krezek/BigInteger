@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Console/Debug
+/Console/Release
+/Console/x64
+/Console/Console.vcxproj.user
+/Debug
+/Release
+/x64
